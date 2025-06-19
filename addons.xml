@@ -12,8 +12,7 @@
             </description>
             <platform>all</platform>
             <assets>
-            <icon>https://hparlon6.github.io/repoachannels/assets/icon.png</icon>
-            </assets>
+                <icon>assets/icon.png</icon> </assets>
         </extension>
     </addon>
-    </addons>
+</addons>
