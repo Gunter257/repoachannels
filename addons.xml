@@ -9,6 +9,7 @@
             <description>
                 Reproduce canales Acestream directamente en Kodi.
                 Requiere la instalación de Ace Stream Engine en tu dispositivo.
+                Este addon solo muestra y organiza enlaces disponibles públicamente en internet. No aloja, distribuye ni es responsable del contenido enlazado. El uso del addon es responsabilidad del usuario.
             </description>
             <platform>all</platform>
             <assets>
