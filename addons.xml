@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
+    <addon id="plugin.video.acestream_channels" name="[COLOR FF00FFFF]Acestream Channels[/COLOR]" version="1.0.0" provider-name="Gunter25">
+        <extension point="xbmc.python.pluginsource" library="default.py">
+            <provides>video</provides>
+        </extension>
+        <extension point="xbmc.addon.metadata">
+            <summary>Addon para ver canales de Acestream</summary>
+            <description>
+                Reproduce canales Acestream directamente en Kodi.
+                Requiere la instalación de Ace Stream Engine en tu dispositivo.
+            </description>
+            <platform>all</platform>
+            <assets>
+                <icon>resources/icon.png</icon>
+            </assets>
+        </extension>
+    </addon>
+    </addons>
