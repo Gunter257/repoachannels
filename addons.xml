@@ -8,7 +8,7 @@
             <import addon="xbmc.python" version="3.0.0"/>
         </requires>
         <extension point="xbmc.addon.metadata">
-            <summary>Lista de canales AceStream (v1.0.0)</summary> <description>Descripción de la versión 1.1.0.</description>
+            <summary>Lista de canales AceStream (v1.0.0)</summary> <description>Descripción de la versión 1.0.0.</description>
             <platform>all</platform>
             <assets><icon>icon.png</icon></assets>
         </extension>
