@@ -64,8 +64,7 @@
                 Fuentes web: [COLOR FF00FFFF]https://www.socialcreator.com/xupimarc2/?s=289267[/COLOR] | https://fr.4everproxy.com/direct/aHR0cHM6Ly9jaXJpYWNvLWxpYXJ0LnZlcmNlbC5hcHAv
             </description>
             <platform>all</platform>
-            <assets>
-                <icon>icon.png</icon> </assets>
+            <assets><icon>icon.png</icon> </assets>
         </extension>
     </addon>
     </addons>
